@@ -1,5 +1,7 @@
 # ThinSat_GNSS-R_Rogue_Wave_Surveyor
 
+Adrucam Lib From: https://github.com/ArduCAM/Arduino.git
+
 For years, rogue waves have led to the destruction of ships and industries with its unpredictability. With waves twice the size coming seemingly out of nowhere,
 it is difficult to predict with current technology how and why they occur. There are theories and some developed technologies for understanding these waves, 
 but they still are not justified in predicting and truly identifying them. The ThinSat GRWS will utilize image processing and the GNSS-R (Used in Oceanography)
