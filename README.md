@@ -21,4 +21,5 @@ Parts:
 
 Basic Work Flow of Final Product:
 
-![image](https://user-images.githubusercontent.com/61130232/114956022-f409d700-9e2b-11eb-8723-882d7e13c18f.png)
+![image](https://user-images.githubusercontent.com/61130232/114956067-169bf000-9e2c-11eb-9511-ec49ee01c193.png)
+
