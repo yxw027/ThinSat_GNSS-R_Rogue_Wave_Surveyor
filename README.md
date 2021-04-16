@@ -1,4 +1,5 @@
 # ThinSat_GNSS-R_Rogue_Wave_Surveyor
+(In development...)
 
 Adrucam Lib From: https://github.com/ArduCAM/Arduino.git
 
@@ -10,3 +11,14 @@ images and run the ThinSat. Here in this presentation, the ThinSat was demonstra
 prototype can be demonstrated utilizing small tests using a motorized tank to replicate waves. With collecting wave data, it can demonstrate the ThinSat
 capabilities to aid in our understanding of this phenomenon, leading to implementing possible solutions to combat these dangerous waves. Going forward,
 the ThinSat will continue further development to later be launched from NASA Wallops Flight Facility.
+
+
+Parts:
+- Ardiuno UNO
+- Arducam OV2640_Mini_2MP
+- W2SG0084i GPS Based on CSR's SiRF Star IV Architecture with custom surface mount 
+- APARM2508S-SG3L5 Antenna
+
+Basic Work Flow of Final Product:
+
+![image](https://user-images.githubusercontent.com/61130232/114956022-f409d700-9e2b-11eb-8723-882d7e13c18f.png)
