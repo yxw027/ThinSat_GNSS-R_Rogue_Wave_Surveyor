@@ -1,7 +1,7 @@
 # ThinSat_GNSS-R_Rogue_Wave_Surveyor
 (In development...)
 
-Adrucam Lib From: https://github.com/ArduCAM/Arduino.git
+Adrucam Lib: https://github.com/ArduCAM/Arduino.git
 
 For years, rogue waves have led to the destruction of ships and industries with its unpredictability. With waves twice the size coming seemingly out of nowhere,
 it is difficult to predict with current technology how and why they occur. There are theories and some developed technologies for understanding these waves, 
